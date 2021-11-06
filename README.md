@@ -15,5 +15,6 @@
       <li>TypeScript</li>
       <li>Bootstrap</li>
       <li>HTML5</li>
+      <li>CSS</li>
     </ul>
   </div>
