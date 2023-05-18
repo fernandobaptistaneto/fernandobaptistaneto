@@ -14,8 +14,8 @@
       <li>JavaScript</li>
       <li>TypeScript</li>
       <li>Express</li>
-      <li>nodejs</li>
-      <li>typeORM</li>
+      <li>Nodejs</li>
+      <li>TypeORM</li>
       <li>Bootstrap</li>
       <li>HTML5</li>
       <li>CSS</li>
