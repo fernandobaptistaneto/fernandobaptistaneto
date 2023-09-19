@@ -15,6 +15,7 @@
       <li>TypeScript</li>
       <li>Express</li>
       <li>Nodejs</li>
+      <li>VueJS</li>
       <li>TypeORM</li>
       <li>Bootstrap</li>
       <li>HTML5</li>
