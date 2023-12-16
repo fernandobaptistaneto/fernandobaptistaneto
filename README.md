@@ -22,17 +22,23 @@
   **Programming, Frameworks and Markup Languages**
 
 <div>
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-333333.svg?logo=javascript&logoColor=F7DF1E"> 
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-333333.svg?logo=node.js&logoColor=43853D"> 
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-333333.svg?logo=javascript&logoColor=F7DF1E"> 
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-333333.svg?logo=typescript&logoColor=007ACC">
-      <img alt="CSS" src="https://img.shields.io/badge/CSS-333333.svg?logo=css3&logoColor=1572B6">
-      <img alt="SCSS" src="https://img.shields.io/badge/SCSS-333333.svg?logo=css3&logoColor=1572B6">
-      <img alt="HTML" src="https://img.shields.io/badge/HTML-333333.svg?logo=html5&logoColor=E34F26"> 
-      <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-333333.svg?logo=java&logoColor=3eb6ff"> 
-      <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-333333.svg?logo=database&logoColor=d47131">
-      <img alt="SVG" src="https://img.shields.io/badge/SVG-333333.svg?logo=svg&logoColor=white">
+      <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-333333.svg?logo=java&logoColor=white"> 
+      <img alt="Spring" src="https://img.shields.io/badge/Spring-333333?style=flat&logo=spring&logoColor=6DB33F">
+      <img alt="Vuejs3" src="https://img.shields.io/badge/Vue.js-3.0-333333?style=flat&logo=vue.js&logoColor=4FC08D">
+      <img alt="Vuejs2" src="https://img.shields.io/badge/Vue.js-2.0-333333?style=flat&logo=vue.js&logoColor=4FC08D">
+      <img alt="Vuetify3" src="https://img.shields.io/badge/Vuetify-3.0-333333?style=flat&logo=vuetify&logoColor=1867C0">
+      <img alt="Vuetify2" src="https://img.shields.io/badge/Vuetify-2.0-333333?style=flat&logo=vuetify&logoColor=1867C0">
+      <img alt="Quasar" src="https://img.shields.io/badge/Quasar-2.0-333333?style=flat&logo=quasar&logoColor=1976D2">
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-5.0-333333.svg?logo=bootstrap&logoColor=b380fd">
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-4.0-333333.svg?logo=bootstrap&logoColor=b380fd">
+      <img alt="HTML" src="https://img.shields.io/badge/HTML-333333.svg?logo=html5&logoColor=E34F26"> 
+      <img alt="CSS" src="https://img.shields.io/badge/CSS-333333.svg?logo=css3&logoColor=1572B6">
+      <img alt="SCSS" src="https://img.shields.io/badge/SCSS-333333.svg?logo=css3&logoColor=1572B6">
+      <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-333333.svg?logo=database&logoColor=d47131">
+      <img alt="SVG" src="https://img.shields.io/badge/SVG-333333.svg?logo=svg&logoColor=white">
 
 
 <br/>
@@ -70,6 +76,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-333333.svg?style=flat&logo=gitlab&logoColor=23181717)
 
 **Development Tools**
 
