@@ -1,4 +1,4 @@
-## ☕Oi eu sou o Fernando Baptista, Bem Vindo!!☕
+## ☕ Oi eu sou o Fernando Baptista ☕
 
 <div align="center">
   <a href="https://github.com/fernandobaptistaneto">
@@ -15,10 +15,9 @@
       <li>TypeScript</li>
       <li>Express</li>
       <li>Nodejs</li>
-      <li>VueJS</li>
-      <li>TypeORM</li>
-      <li>Bootstrap</li>
+      <li>['VueJS 2.0', 'VueJS 3.0']</li>
       <li>HTML5</li>
       <li>CSS</li>
+      <li>SCSS</li>
     </ul>
   </div>
