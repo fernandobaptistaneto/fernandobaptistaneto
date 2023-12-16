@@ -86,6 +86,7 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![ClickUp](https://img.shields.io/badge/ClickUp-%3333333.svg?&style=flat&logo=clickup&logoColor=237B68EE)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![AWS](https://img.shields.io/badge/AWS-333333.svg?style=flat&logo=amazon-aws&logoColor=f8991b)
 
 
 </div>
