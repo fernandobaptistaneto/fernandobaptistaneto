@@ -34,6 +34,7 @@
       <img alt="Quasar" src="https://img.shields.io/badge/Quasar-2.0-333333?style=flat&logo=quasar&logoColor=1976D2">
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-5.0-333333.svg?logo=bootstrap&logoColor=b380fd">
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-4.0-333333.svg?logo=bootstrap&logoColor=b380fd">
+      <img alt="Angular" src="https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=DD0031">
       <img alt="HTML" src="https://img.shields.io/badge/HTML-333333.svg?logo=html5&logoColor=E34F26"> 
       <img alt="CSS" src="https://img.shields.io/badge/CSS-333333.svg?logo=css3&logoColor=1572B6">
       <img alt="SCSS" src="https://img.shields.io/badge/SCSS-333333.svg?logo=css3&logoColor=1572B6">
@@ -77,6 +78,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-333333.svg?style=flat&logo=gitlab&logoColor=23181717)
+![AWS](https://img.shields.io/badge/AWS-333333.svg?style=flat&logo=amazon-aws&logoColor=f8991b)
 
 **Development Tools**
 
@@ -86,7 +88,8 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![ClickUp](https://img.shields.io/badge/ClickUp-%3333333.svg?&style=flat&logo=clickup&logoColor=237B68EE)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![AWS](https://img.shields.io/badge/AWS-333333.svg?style=flat&logo=amazon-aws&logoColor=f8991b)
+![GitKraken](https://img.shields.io/badge/-GitKraken-333333?style=flat&logo=gitkraken&logoColor=139185)
+
 
 
 </div>
