@@ -1,10 +1,14 @@
 <div align="center">
     <a href="https://github.com/fernandobaptistaneto">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=375B9F&background=32FFAB00&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Ol%C3%A1%2C+Bem+vindo+ao+meu+github+!;%F0%9F%A7%92%F0%9F%8F%BB+Meu+nome+%C3%A9+Fernando+Baptista;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Sou+Desenvolvedor+FullStack" alt="Typing SVG" /> 
+        <img width="250px" src="https://static.vecteezy.com/system/resources/previews/020/962/986/non_2x/software-engineer-graphic-clipart-design-free-png.png">
+    </a>
+    <br/>
+    <br/>
+<a href="https://github.com/fernandobaptistaneto"><img src="https://readme-typing-svg.demolab.com?                font=Fira+Code&pause=1000&color=375B9F&background=32FFAB00&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BB+Ol%C3%A1%2C+Bem+vindo+ao+meu+github+!;%F0%9F%A7%92%F0%9F%8F%BB+Meu+nome+%C3%A9+Fernando+Baptista;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Sou+Desenvolvedor+FullStack" alt="Typing SVG" /> 
 </div>
 
+    
 <div>
-
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -34,8 +38,8 @@
 
 **Utilities**
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+<img alt="SVG" src="https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia"> 
+<img alt="SVG" src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman"> 
 
 **DevOps**
 
