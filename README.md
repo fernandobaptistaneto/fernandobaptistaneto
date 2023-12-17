@@ -22,7 +22,8 @@
   **Programming, Frameworks and Markup Languages**
 
 <div>
-      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-333333.svg?logo=node.js&logoColor=43853D"> 
+      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-333333.svg?logo=node.js&logoColor=43853D">
+      <img alt="Express.js" src="https://img.shields.io/badge/express.js-333333.svg?style=flat&logo=express&logoColor=white"/>
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-333333.svg?logo=javascript&logoColor=F7DF1E"> 
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-333333.svg?logo=typescript&logoColor=007ACC">
       <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-333333.svg?logo=java&logoColor=white"> 
